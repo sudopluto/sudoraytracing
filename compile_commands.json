@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-DWL_PLATFORM_LINUX",
+      "-DWL_DEBUG",
+      "-I../Walnut/vendor/imgui",
+      "-I../Walnut/vendor/glfw/include",
+      "-I../Walnut/vendor/glm",
+      "-I../Walnut/Walnut/src",
+      "-I../../../vulkan/1.3.216.0/x86_64/include",
+      "-m64",
+      "-g",
+      "-std=c++17",
+      "-c",
+      "-o",
+      "../bin-int/Debug-linux-x86_64/sudoraytracer/WalnutApp.o",
+      "src/WalnutApp.cpp"
+    ],
+    "directory": "/home/pranav/git/sudoraytracing/sudoraytracer",
+    "file": "/home/pranav/git/sudoraytracing/sudoraytracer/src/WalnutApp.cpp",
+    "output": "/home/pranav/git/sudoraytracing/bin-int/Debug-linux-x86_64/sudoraytracer/WalnutApp.o"
+  }
+]

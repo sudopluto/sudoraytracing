@@ -10,6 +10,8 @@ bin-int/
 *.sln
 Makefile
 *.ini
+.cache
+.codelite
 
 # Exclude
 !vendor/bin
