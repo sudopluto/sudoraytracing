@@ -12,6 +12,7 @@ Makefile
 *.ini
 .cache
 .codelite
+.ctagsd
 
 # Exclude
 !vendor/bin
